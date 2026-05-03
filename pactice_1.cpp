@@ -6,7 +6,8 @@ product and division. */
 
 using namespace std;
 
-int main(){
+int main()
+{
      // Declare required variables
      float num1, num2;
 
